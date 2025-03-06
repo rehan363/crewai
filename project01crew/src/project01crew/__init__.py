@@ -1,2 +1,1 @@
-def main() -> None:
-    print("Hello from project01crew!")
+print("Hello from project01crew!")
