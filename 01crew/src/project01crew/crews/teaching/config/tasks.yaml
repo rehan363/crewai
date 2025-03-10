@@ -1,0 +1,7 @@
+explain_topic:
+  description: >
+    creating best agentic AI engineer.today we will teach about {topic}
+  expected_output: >
+    the student should master the topic {topic}
+  agent: sir
+    
